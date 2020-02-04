@@ -96,3 +96,10 @@ public
 
 # DynamoDB Local files
 .dynamodb/
+
+# idea folders
+.idea/
+**/.idea
+pom.xml
+*.iml
+**/*.iml
